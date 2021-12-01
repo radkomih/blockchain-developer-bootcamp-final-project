@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <link rel="stylesheet" href="style.css">
+
+  <script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js"></script>
+  <script src="app.js"></script>
+
+  <title>Lucky Marketplace</title>
+</head>
+<body>
+  <h1>Gamble-Sales Marketplace</h1>
+  
+  <h2 id="error-message" class='hidden'></h2>
+
+  <button id="metamask-connect"></button> 
+
+  <hr>
+
+  <div id="content" class="hidden">
+    <i>TODO: add show view</i>
+    <h3>All Gamble-Sales</h3>
+    <ul id="index-view-content"></ul>
+
+    <hr>
+
+    <i>TODO: integrate IPFS</i>
+    <h3>New Listing</h3>
+    <label for="ipfs-address-id">IPFS Address Id</label>
+    <input type="text" id="ipfs-address-id" name="ipfs-address-id"><br><br>
+
+    <label for="ipfs-item-content-hash">IPFS Item Content Hash</label>
+    <input type="text" id="ipfs-item-content-hash" name="ipfs-item-content-hash"><br><br>
+
+    <label for="item-location">Item Location</label>
+    <input type="text" id="item-location" name="item-location"><br><br>
+
+    <label for="item-carrier">Carrier</label>
+    <input type="text" id="item-carrier" name="item-carrier"><br><br>
+
+    <label for="price">Price</label> <i>(requires collateral)</i>
+    <input type="number" id="price" name="price"><br><br>
+
+    <label for="slots">Slots</label>
+    <input type="number" id="slots" name="slots"><br><br>
+
+    <button id="form-submit"></button>
+  </div>
+</body>
+</html>

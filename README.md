@@ -38,6 +38,7 @@ Each of the described cases can be identified via the API of the respective cour
 
 ## Screencast
 ## Deployment
+https://radkomih.github.io/blockchain-developer-bootcamp-final-project/
 
 ## Directory Structure
 - `client` - Frontend build with vanilla JavaScript,HTML,CSS
