@@ -37,7 +37,9 @@ A community of members composed of various roles:
 Each of the described cases can be identified via the API of the respective courier. Have to think about the conditions to break the contract in case one of the parties does not cooperate.
 
 ## Screencast
+https://www.loom.com/share/d34ca8f6ec4c4fb8b5f5e18d15ddca8b 
 ## Deployment
+https://radkomih.github.io/blockchain-developer-bootcamp-final-project/
 
 ## Directory Structure
 - `client` - Frontend build with vanilla JavaScript,HTML,CSS

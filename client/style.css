@@ -1,0 +1,22 @@
+.hidden {
+  display: none;
+}
+
+#error-message {
+  padding: 10px;
+  text-align: center;
+  background-color:lightpink;
+  border-radius: 5px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#error-message {
+  text-align: center;
+}
+
+#mm-connect {
+  padding: 10px;
+}

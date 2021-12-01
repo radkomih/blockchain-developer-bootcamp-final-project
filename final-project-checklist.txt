@@ -26,14 +26,14 @@ Please answer the following questions. Does your project:
 --Allows a user to submit a transaction to update smart contract state YES
 --Updates the frontend if the transaction is successful or not? YES
 
-8. Hosted on Github Pages, Heroku, Netlify, Fleek, or some other free frontend service that gives users a public interface to your decentralized application? (That address should be in your README.md document) NO
+8. Hosted on Github Pages, Heroku, Netlify, Fleek, or some other free frontend service that gives users a public interface to your decentralized application? (That address should be in your README.md document) YES
 
 9. Have clear instructions for: 
 1) Installing dependencies for your project YES
 2) Accessing orâ€”if your project needs a server (not required)â€”running your project
 3) Running your smart contract unit tests and which port a local testnet should be running on. YES
 
-10. A screencast of you walking through your project? NO
+10. A screencast of you walking through your project? YES
 
 
 Congratulations on finishing your final project!
